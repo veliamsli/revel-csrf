@@ -5,7 +5,7 @@ import (
 	"crypto/rand"
 	"encoding/base64"
 	"fmt"
-	"github.com/revel/revel"
+	"github.com/veliamsli/revel"
 	"io"
 )
 
